@@ -19,7 +19,7 @@ $ npm start ou yarn start
 ## :rocket: Technologies
 
 -  [ReactJS](https://reactjs.org/)
--  [ReactPDF](https://react-pdf.org/styling)
+-  [React-pdf](https://react-pdf.org/styling)
 -  [styled-components](https://www.npmjs.com/package/@react-pdf/styled-components)
 
 ---
