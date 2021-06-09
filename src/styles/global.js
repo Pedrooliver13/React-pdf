@@ -22,6 +22,7 @@ html {
 iframe {
   width: inherit;
   height: inherit;
+  border: none;
 }
 body {
   margin: 0;
